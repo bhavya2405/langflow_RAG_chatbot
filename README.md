@@ -7,7 +7,7 @@ A local-first **Retrieval-Augmented Generation (RAG)** chatbot built with **Lang
 ---
 
 ## ✨ Features
-- **No-code/low-code** orchestration with **Langflow** (drag-and-drop flow editor)
+- **low-code** orchestration with **Langflow** (drag-and-drop flow editor)
 - **AstraDB** vector store for scalable, persistent retrieval
 - **Local docs ingestion** (PDF/Markdown/Docx/HTML, etc.)
 - **Configurable chunking** (size/overlap), top‑k, and prompts
