@@ -212,8 +212,6 @@ _Example prompt/answer showing structured response and bullet formatting._
 ## 📄 License
 MIT
 
-MIT
-
 ---
 
 ## 🙌 Acknowledgements
